@@ -1,7 +1,6 @@
 # TYPHIBEV_TND-Nepal
-Code for the manuscript "Effectiveness of the TYPHIBEV®(Vi-CRM197 conjugate) vaccine introduction in Nepal: a test-negative, case-control study"
+R code for the manuscript "Effectiveness of the TYPHIBEV®(Vi-CRM197 conjugate) vaccine introduction in Nepal: a test-negative, case-control study"
 
-This repository contains the R code for the analysis of the Nepal Typhoid TCV Vaccine Effectiveness study using a Test-Negative Design.
 ## Project Structure
 - `01_data_cleaning.R`: Imports raw data, performs record corrections, and prepares the dataset for analysis.
 - `02_demographics.R`: Generates Table 1 (Participant Characteristics) and Table 2 (Risk Factors).
